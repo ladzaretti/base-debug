@@ -2,7 +2,7 @@
   "packageRules": [
     {
       "enabled":false,
-      "matchPaths": ["inner/Dockerfile"],
+      "matchPaths": ["inner/package.json"],
       "matchPackagePatterns":["*"]
     }
   ]
