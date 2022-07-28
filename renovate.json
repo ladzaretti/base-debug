@@ -3,7 +3,8 @@
     {
       "enabled":false,
       "matchPaths": ["inner/package.json"],
-      "matchPackagePatterns":["*"]
+      "matchPackagePatterns":["*"],
+      "sourceUrl": "https://github.com/sindresorhus/got"
     }
   ]
 }
