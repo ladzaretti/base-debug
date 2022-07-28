@@ -1,8 +1,9 @@
 {
   "packageRules": [
     {
+      "enabled":false,
       "matchPaths": ["inner/Dockerfile"],
-      "excludePackagePatterns": ["*"]
+      "matchPackagePatterns":["*"]
     }
   ]
 }
