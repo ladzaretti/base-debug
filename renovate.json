@@ -2,8 +2,7 @@
   "packageRules": [
     {
       "enabled":false,
-      "matchPaths": ["inner/package.json"],
-      "matchPackagePatterns":["*"],
+      "matchPackageNames": ["delay"],
       "sourceUrl": "https://github.com/sindresorhus/got"
     }
   ]
