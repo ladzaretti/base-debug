@@ -1,7 +1,6 @@
 {
   "packageRules": [
     {
-      "enabled":false,
       "matchPackageNames": ["delay"],
       "sourceUrl": "https://github.com/sindresorhus/got"
     }
