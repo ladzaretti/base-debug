@@ -2,7 +2,7 @@
   "packageRules": [
     {
       "matchPackageNames": ["delay"],
-      "overwriteSourceUrl": "https://github.com/sindresorhus/got"
+      "customChangelogUrl": "https://github.com/sindresorhus/got"
     }
   ]
 }
