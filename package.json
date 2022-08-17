@@ -1,5 +1,11 @@
 {
  "dependencies": {
     "delay": "^4.4.1"
-  }
+  },
+ "packageRules": [
+    {
+      "matchPackageNames": ["delay"],
+      "labels": ["delay"]
+    }
+  ]
 }
